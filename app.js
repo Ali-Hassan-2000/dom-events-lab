@@ -74,7 +74,6 @@ equalsButton.addEventListener('click', (event) => {
 });
 
 console.log(event.target.innerText);
-
 /*-------------------------------- Functions --------------------------------*/
 function operate(a, b, op) {
   
